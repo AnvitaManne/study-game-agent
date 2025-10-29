@@ -82,5 +82,3 @@ Parameters:
 ## Author
 
 Anvita Manne
-
-There ya go 🩷 just the puzzle block swapped, rest untouched and perfect for your README.
